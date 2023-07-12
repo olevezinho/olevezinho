@@ -1,4 +1,4 @@
-![image](https://github.com/olevezinho/olevezinho/assets/37152156/0478baf7-2b36-49f5-b308-152187012a92)# Hello there 👋
+# Hello there 👋
 
 # About Me
 - 👋  Hi, I’m @olevezinho!
@@ -30,7 +30,8 @@
 </table>
 
 # Certifications
-
+![image](https://github.com/olevezinho/olevezinho/assets/37152156/156b96f7-037a-4397-99b8-63983f6dcfe6)
+![image](https://github.com/olevezinho/olevezinho/assets/37152156/0478baf7-2b36-49f5-b308-152187012a92)
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-filipe-costa-brochado-62b63bb7/) [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/310718625/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oLevezinho)
