@@ -2,7 +2,7 @@
 
 # About Me
 - 👋  Hi, I’m @olevezinho!
-- 📚  I’m interested in books, people, .NET, podman, PowerShell, Bash, Python, and much more
+- 📚  I’m interested in books, people, .NET, docker, podman, PowerShell, Bash, Python, and much more
 - ☁️  I’m currently learning AWS Cloud, NUnit, Moq, and I love learning new stuff
 - 🤝  I’m looking to collaborate on FOSS
 
