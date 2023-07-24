@@ -30,7 +30,10 @@
 </table>
 
 # Certifications
-[![image](https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7)](https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b)
+![image](https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b)
+
+### 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-filipe-costa-brochado-62b63bb7/) [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/310718625/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oLevezinho)
