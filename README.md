@@ -30,6 +30,25 @@
 </table>
 
 # Certifications
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <td>
+        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7)
+      </td>
+      <td>
+        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793)
+      </td>
+      <td>
+        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227)
+      </td>
+      <td>
+        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b)
+      </td>
+    </tr>
+  </thead>
+</table>
+
 ![image](https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b)
 
 [AWS Certified Cloud Practicioner](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
