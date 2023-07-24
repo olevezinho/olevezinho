@@ -37,8 +37,6 @@
         <img
           src="https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7"
         />
-        <br/>
-        [link](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
       </td>
       <td>
         <img
@@ -59,9 +57,10 @@
   </thead>
 </table>
 
-![image](https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227) ![image](https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b)
-
-[AWS Certified Cloud Practicioner](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
+[Certified Cloud Practicioner](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
+[CQ: Cloud Practicioner](https://www.credly.com/badges/dcc2cc09-2070-4d42-8b20-6d2d7aabc711/public_url)
+[CQ: Serverless Developer](https://www.credly.com/badges/283c3ae6-c88a-4656-be66-85fc20e8a96d/public_url)
+[CQ: Solutions Architect](https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url)
 
 
 
