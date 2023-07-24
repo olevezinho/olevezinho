@@ -44,27 +44,26 @@
         <img
           src="https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793"
         />
+        <br>
+        <a href="https://www.credly.com/badges/dcc2cc09-2070-4d42-8b20-6d2d7aabc711/public_url">CQ: Cloud Practicioner</a>
       </td>
       <td>
         <img
           src="https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227"
         />
+        <br>
+        <a href="https://www.credly.com/badges/283c3ae6-c88a-4656-be66-85fc20e8a96d/public_url">CQ: Serverless Developer</a>
       </td>
       <td>
         <img
           src="https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b"
         />
+        <br>
+        <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">CQ: Solutions Architect</a>
       </td>
     </tr>
   </thead>
 </table>
-
-[Certified Cloud Practicioner](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
-[CQ: Cloud Practicioner](https://www.credly.com/badges/dcc2cc09-2070-4d42-8b20-6d2d7aabc711/public_url)
-[CQ: Serverless Developer](https://www.credly.com/badges/283c3ae6-c88a-4656-be66-85fc20e8a96d/public_url)
-[CQ: Solutions Architect](https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url)
-
-
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-filipe-costa-brochado-62b63bb7/) [![Meetup](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)](https://www.meetup.com/pt-BR/members/310718625/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/oLevezinho)
