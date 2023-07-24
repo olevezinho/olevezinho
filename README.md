@@ -39,13 +39,19 @@
         />
       </td>
       <td>
-        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793)
+        <img
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793"
+        />
       </td>
       <td>
-        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227)
+        <img
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/919a7a94-3076-446c-8640-b997676ff227"
+        />
       </td>
       <td>
-        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b)
+        <img
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/5d416769-751a-4057-8a77-ebd92bee779b"
+        />
       </td>
     </tr>
   </thead>
