@@ -37,7 +37,7 @@
         <img
           src="https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7"
         />
-        [Certified Cloud Practicioner](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
+        [link](https://www.credly.com/badges/12ed14dc-0274-4d86-9647-ebff9687647f/public_url)
       </td>
       <td>
         <img
