@@ -34,7 +34,9 @@
   <thead>
     <tr>
       <td>
-        ![image](https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7)
+        <img
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/35c0752b-61d4-4cfa-b722-0542ca1712a7"
+        />
       </td>
       <td>
         ![image](https://github.com/olevezinho/olevezinho/assets/37152156/d5c10df5-c35f-4164-9f1b-9dcbbc4cf793)
