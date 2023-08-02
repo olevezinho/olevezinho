@@ -25,6 +25,12 @@
           alt="GitHub Stats"
         />
       </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username?user=olevezinho&theme=tokyonight"
+          alt="GitHub Stats"
+        />
+      </td>
     </tr>
   </thead>
 </table>
