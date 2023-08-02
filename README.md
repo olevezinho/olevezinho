@@ -27,7 +27,7 @@
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username?user=olevezinho&theme=tokyonight"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=olevezinho&layout=compact&langs_count=5&theme=gotham"
           alt="GitHub Stats"
         />
       </td>
