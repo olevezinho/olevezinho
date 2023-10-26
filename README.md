@@ -67,6 +67,13 @@
         <br>
         <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">CQ: Solutions Architect</a>
       </td>
+      <td>
+        <img
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/04ee8eaa-3770-4799-bfbd-f7dcf68160c4"
+        />
+        <br>
+        <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">Textract .NET Workloads</a>
+      </td>
     </tr>
   </thead>
 </table>
