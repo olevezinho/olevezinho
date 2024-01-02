@@ -74,6 +74,13 @@
         <br>
         <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">Textract .NET Workloads</a>
       </td>
+      <td>
+        <img
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/aaab99f7-17e6-4cdf-8f84-2203698ef6e2"
+        />
+        <br>
+        <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">Textract .NET Workloads</a>
+      </td>
     </tr>
   </thead>
 </table>
