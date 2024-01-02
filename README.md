@@ -69,14 +69,14 @@
       </td>
       <td>
         <img
-          src="https://github.com/olevezinho/olevezinho/assets/37152156/04ee8eaa-3770-4799-bfbd-f7dcf68160c4"
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/3c360b96-d835-4bfc-9b83-ec6ad1facbc3"
         />
         <br>
         <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">Textract .NET Workloads</a>
       </td>
       <td>
         <img
-          src="https://github.com/olevezinho/olevezinho/assets/37152156/aaab99f7-17e6-4cdf-8f84-2203698ef6e2"
+          src="https://github.com/olevezinho/olevezinho/assets/37152156/55907cb3-9b47-4949-babf-9e034d275864"
         />
         <br>
         <a href="https://www.credly.com/badges/3a19ba2e-9ee6-4d03-bf44-a9ce1800fcc3/public_url">Textract .NET Workloads</a>
