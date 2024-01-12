@@ -1,5 +1,5 @@
 # Hello there 👋
-![Views](https://komarev.com/ghpvc/?username=olevezinho&label=Profile%20views&color=grey&style=for-the-badge
+https://komarev.com/ghpvc/?username=olevezinho&label=Profile%20views&color=grey&style=for-the-badge
 
 # About Me
 - 👋  Hi, I’m @olevezinho!
