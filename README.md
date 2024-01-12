@@ -35,6 +35,7 @@
         />
       </td>
     </tr>
+    [![Ayush's GitHub Activity Graph](https://ghactivity.mrayush.me/graph?username=olevezinho&bg_color=000000&color=ffffff&line=2ec27e&point=f6f5f4&area=true&hide_border=true)](https://ghactivity.mrayush.me/)
   </thead>
 </table>
 
